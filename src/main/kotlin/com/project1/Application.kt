@@ -1,4 +1,4 @@
-package com.project1
+package com.templateproject
 
 import org.springframework.boot.Banner
 import org.springframework.boot.autoconfigure.SpringBootApplication

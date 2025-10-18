@@ -1,3 +1,3 @@
-package com.project1.repository
+package com.templateproject.repository
 
 class CustomRepositoryError(message: String) : RuntimeException(message)

@@ -1,4 +1,4 @@
-package com.project1.config
+package com.templateproject.config
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

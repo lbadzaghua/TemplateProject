@@ -1,4 +1,4 @@
-package com.project1.config
+package com.templateproject.config
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration

@@ -1,6 +1,6 @@
-package com.project1.repository
+package com.templateproject.repository
 
-import com.project1.entity.User
+import com.templateproject.entity.User
 import org.springframework.data.jpa.repository.JpaRepository
 
 interface UserRepository : JpaRepository<User, Long> {

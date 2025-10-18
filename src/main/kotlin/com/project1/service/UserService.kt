@@ -1,8 +1,8 @@
-package com.project1.service
+package com.templateproject.service
 
-import com.project1.entity.User
-import com.project1.repository.CustomRepositoryError
-import com.project1.repository.UserRepository
+import com.templateproject.entity.User
+import com.templateproject.repository.CustomRepositoryError
+import com.templateproject.repository.UserRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import java.util.*

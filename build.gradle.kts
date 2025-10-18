@@ -8,7 +8,7 @@ plugins {
     kotlin("plugin.jpa") version "2.2.0" // generates no-arg constructors for any class annotated with @Entity, @MappedSuperclass or @Embeddable.
 }
 
-group = "org.project1"
+group = "org.templateproject"
 version = "1.0-SNAPSHOT"
 
 repositories {

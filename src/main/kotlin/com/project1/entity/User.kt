@@ -1,4 +1,4 @@
-package com.project1.entity
+package com.templateproject.entity
 
 import jakarta.persistence.*
 import jakarta.persistence.GenerationType.IDENTITY
