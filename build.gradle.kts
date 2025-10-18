@@ -23,7 +23,6 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-mustache:3.5.4")
     implementation("org.springframework.boot:spring-boot-starter-security:3.5.4")
     implementation("org.springframework.boot:spring-boot-starter-web:3.5.4")
-//    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.9") // check string for length to avoid StackOverflow
 
     implementation(kotlin("reflect")) // Reflection is a set of language and library features that allows you to introspect the structure of your program at runtime
 
